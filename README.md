@@ -4,7 +4,7 @@ A simple and scalable RESTful To-Do Management API built using **Spring Boot**, 
 
 ---
 
-## 🚀 Features
+## 🚀Features of Project
 
 - ✅ Create a new task
 - 📋 Get all tasks
