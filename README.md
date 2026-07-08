@@ -34,7 +34,7 @@ A simple and scalable RESTful To-Do Management API built using **Spring Boot**, 
 
 ---
 
-## 📂 Project Structure
+## 📂 a complete Project Structure
 
 ```
 src
