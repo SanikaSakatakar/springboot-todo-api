@@ -1,6 +1,6 @@
 # 📝Spring Boot To-Do API
 
-A simple and scalable RESTful To-Do Management API built using **Spring Boot**, **Spring Data JPA**, **Hibernate**, and **MySQL**. This project demonstrates CRUD operations, REST API development, layered architecture, and database integration.
+A simple and scalable RESTful To-Do Management API built using **Spring Boot**, **Spring Data JPA**, **Hibernate**, and **MySQL**. This project demonstrates CRUD operations, REST API development, layered architecture, and database integration
 
 ---
 
