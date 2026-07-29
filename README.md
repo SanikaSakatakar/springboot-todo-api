@@ -16,7 +16,7 @@ A simple and scalable RESTful To-Do Management API built using **Spring Boot**, 
 - 🌐 RESTful APIs
 - 📦 Layered Architecture (Controller → Service → Repository)
 - 🔧 Exception Handling
-- 📄 JSON Request & Responses
+- 📄 JSON Request & Response
 
 ---
 
