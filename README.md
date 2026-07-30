@@ -20,7 +20,6 @@ A simple and scalable RESTful To-Do Management API built using **Spring Boot**, 
 
 ---
 
-
 ## 🛠️Tech Stack of project
 
 - Java 21
