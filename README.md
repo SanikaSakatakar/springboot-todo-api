@@ -18,7 +18,7 @@ A simple and scalable RESTful To-Do Management API built using **Spring Boot**, 
 - 🔧 Exception Handling
 - 📄 JSON Request & Responses
 
----
+--
 
 ## 🛠️Tech Stack of project
 
